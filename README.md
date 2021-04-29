@@ -9,7 +9,7 @@ d8(  888   888   888 `88b.  888   888 888   .o8  888 `88b.
 ```
 
 - 👋 Hi, I’m @alkock
-- 👀 I’m interested in learning stuff
-- 🌱 I’m currently learning Java
+- 🎓 currently studying buisness informatics.
+- ☕ I'm learning Java
 
 
