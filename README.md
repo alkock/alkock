@@ -9,7 +9,7 @@ d8(  888   888   888 `88b.  888   888 888   .o8  888 `88b.
 ```
 
 - 👋 Hi, I’m @alkock
-- 🎓 currently studying buisness informatics.
+- 🎓 currently studying buisness informatics @ <a href="https://www.haw-hamburg.de/">HAW Hamburg</a>.
 - ☕ I'm learning Java
 
 
