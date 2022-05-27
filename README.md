@@ -27,6 +27,6 @@ d8(  888   888   888 `88b.  888   888 888   .o8  888 `88b.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alkock&show_icons=true&locale=en&layout=compact" alt="alkock" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alkock&show_icons=true&locale=en" alt="alkock" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=alkock&show_icons=true&locale=en" alt="alkock" /></p>
 
 
