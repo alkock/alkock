@@ -8,8 +8,8 @@ d8(  888   888   888 `88b.  888   888 888   .o8  888 `88b.
 `Y888""8o o888o o888o o888o `Y8bod8P' `Y8bod8P' o888o o888o  
 ```
 
-<h1 align="center">Hi 👋, I'm @alkock</h1>
-<h3 align="center">🎓 currently studying buisness informatics @ HAW Hamburg.</h3>
+<h1 align="center">Hi 👋, I'm Ansgar</h1>
+<h3 align="center">🎓 currently studying buisness informatics at HAW Hamburg.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alkock&label=Profile%20views&color=0e75b6&style=flat" alt="alkock" /> </p>
 
