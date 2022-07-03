@@ -9,7 +9,7 @@ d8(  888   888   888 `88b.  888   888 888   .o8  888 `88b.
 ```
 
 <h1 align="center">Hi 👋, I'm Ansgar</h1>
-<h3 align="center">🎓 currently studying buisness informatics at HAW Hamburg.</h3>
+<h3 align="center">🎓 currently studying business informatics at HAW Hamburg.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alkock&label=Profile%20views&color=0e75b6&style=flat" alt="alkock" /> </p>
 
