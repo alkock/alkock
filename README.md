@@ -12,6 +12,7 @@ d8(  888   888   888 `88b.  888   888 888   .o8  888 `88b.
 <h3 align="center">🎓 currently studying business informatics at HAW Hamburg.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alkock&label=Profile%20views&color=0e75b6&style=flat" alt="alkock" /> </p>
+[![wakatime](https://wakatime.com/badge/user/82f59d9d-c69d-4085-b5dd-2b1505e6bde8.svg)](https://wakatime.com/@82f59d9d-c69d-4085-b5dd-2b1505e6bde8)
 
 - 👨‍💻 All of my projects are available at [https://ansgarkock.de](https://ansgarkock.de)
 
