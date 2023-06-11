@@ -16,7 +16,7 @@ d8(  888   888   888 `88b.  888   888 888   .o8  888 `88b.
 
 - 👨‍💻 All of my projects are available at [https://ansgarkock.de](https://ansgarkock.de)
 
-- 📫 How to reach me **mail@ansgarkock.de**
+- 📫 How to reach me **post@ansgarkock.de**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
