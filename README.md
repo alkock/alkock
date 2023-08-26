@@ -9,7 +9,7 @@ d8(  888   888   888 `88b.  888   888 888   .o8  888 `88b.
 ```
 
 <h1 align="center">Hi 👋, I'm Ansgar</h1>
-<h3 align="center">🎓 currently studying business informatics at HAW Hamburg.</h3>
+<h3 align="center">🎓 currently studying masters computer science at University of Rostock</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alkock&label=Profile%20views&color=0e75b6&style=flat" alt="alkock" /> </p>
 <a href="https://wakatime.com/@82f59d9d-c69d-4085-b5dd-2b1505e6bde8"><img src="https://wakatime.com/badge/user/82f59d9d-c69d-4085-b5dd-2b1505e6bde8.svg" alt="Total time coded since Apr 24 2023" /></a>
