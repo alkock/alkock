@@ -9,16 +9,8 @@ d8(  888   888   888 `88b.  888   888 888   .o8  888 `88b.
 ```
 
 <h1 align="center">Hi 👋, I'm Ansgar</h1>
-<h3 align="center">🎓 currently studying masters computer science at University of Rostock</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alkock&label=Profile%20views&color=0e75b6&style=flat" alt="alkock" /> </p>
 <a href="https://wakatime.com/@82f59d9d-c69d-4085-b5dd-2b1505e6bde8"><img src="https://wakatime.com/badge/user/82f59d9d-c69d-4085-b5dd-2b1505e6bde8.svg" alt="Total time coded since Apr 24 2023" /></a>
 
-- 👨‍💻 All of my projects are available at [https://about.ansgarkock.de](https://about.ansgarkock.de)
-
-- 📫 How to reach me **post@ansgarkock.de**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ansgarkock" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ansgarkock" height="30" width="40" /></a>
 </p>
